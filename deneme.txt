@@ -1,7 +1,14 @@
 Merhaba
 Ahmet
+<<<<<<< HEAD
 test
 çakışma olucak
 dsmfklsdf
 slkdmfksa
 sadlfşmölşsa
+=======
+dklxngkldsmfg
+fldşsmöglşd
+dlsmglşds
+sfgdöig
+>>>>>>> 91f52974c38fc30454cd02effe522eaaf549ef02
